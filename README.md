@@ -1,5 +1,9 @@
 # Hydrate Yourself - Drinking water app 
 
+Link to app:
+https://hydrateyourself.netlify.app/
+
+
 ## Description
 
 This app was made as one of 50 mini projects on Brad Traversy's Udemy course - find the repo below:
