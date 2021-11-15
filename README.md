@@ -7,10 +7,14 @@ https://github.com/bradtraversy/50projects50days
 
 It is a water drinking application where the user can select the amount of glasses they have had to meet the goal of 2 litres. 
 
-## Post tutorial by me
+## Added on after the tutorial
 
-The functionality and basic styling was made following the tutorial and the further styling was implemented by me, using CSS. 
+The functionality and initial styling was made following the tutorial and the further styling was implemented by me, using CSS. 
+
+### Starter
 
 ![Starter](images/starter.png "Starter")
+
+### Final
 
 ![final](images/final.png "Final")
