@@ -9,7 +9,7 @@ class Car {
       return 'I have a ' + this.carname;
     }
   }
-  // Creating an inheritence relationship by creating a more specific class 'Model' that extens 'Car'
+  // Creating an inheritance relationship by creating a more specific class 'Model' that extends 'Car'
   class Model extends Car {
     // Creating a constructur that takes two arguments, first one is picked up from the base class
     constructor(brand, mod) {
